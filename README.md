@@ -30,3 +30,9 @@ The combined corpus is saved to `fantasy_project/data/combined_corpus.txt`.
 
 Update 05/21 - Downloaeded and loaded dataset. Setting up models
 Update 05/23 - Model set up and ran. I have ran a gpt2-large model and im trying to increase performance. Also trying out different ways to make the orchestrator perform better.
+
+Update 05/23 - I am getting some generation from the gpt-small model. 
+<img width="1004" height="398" alt="image" src="https://github.com/user-attachments/assets/8d1eb584-739f-4fc7-983a-973bf2cd1534" />
+
+This is the benchmark and now I am going to train on gpt2-large and try to improve the performance. Also might have overlooked some architectural changes but I am going to look into it again and confirm.
+
