@@ -29,3 +29,4 @@ The combined corpus is saved to `fantasy_project/data/combined_corpus.txt`.
 
 
 Update 05/21 - Downloaeded and loaded dataset. Setting up models
+Update 05/23 - Model set up and ran. I have ran a gpt2-large model and im trying to increase performance. Also trying out different ways to make the orchestrator perform better.
