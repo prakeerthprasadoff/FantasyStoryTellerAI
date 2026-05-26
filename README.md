@@ -40,4 +40,9 @@ Update 05/26 - I was able to train the gpt2-large model and got some results. Bu
 
 <img width="711" height="198" alt="image" src="https://github.com/user-attachments/assets/6b393025-4c4e-45c7-9d72-25fae77b4127" />
 
-Update 05/26 - The file got corrupted somehow and was not able to open it. I have rewritten the python notebook with 'nbformat' and now the file is working
+Update 05/26 - The file got corrupted somehow and was not able to open it. I have rewritten the python notebook with 'nbformat' and now the file is working.
+
+Update 05/26 - The file is working but I am getting some I/O error which says disk quota exceeded. Trying to solve the issue
+
+<img width="666" height="30" alt="image" src="https://github.com/user-attachments/assets/76402ad6-8cb8-49d9-bb2e-b649aa192a4b" />
+
