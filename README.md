@@ -36,3 +36,8 @@ Update 05/23 - I am getting some generation from the gpt-small model.
 
 This is the benchmark and now I am going to train on gpt2-large and try to improve the performance. Also might have overlooked some architectural changes but I am going to look into it again and confirm.
 
+Update 05/26 - I was able to train the gpt2-large model and got some results. But saving the model to disk has caused some I/O exception error. I am now not able to access the file that I used for training. Currently diagnosing and debugging.
+
+<img width="711" height="198" alt="image" src="https://github.com/user-attachments/assets/6b393025-4c4e-45c7-9d72-25fae77b4127" />
+
+
