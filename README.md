@@ -71,4 +71,6 @@ Update 05/27 - The model gpt2-large is bering trained (774M parameters). Project
 UPdate 05/28 - I have completed training the model overnight. Now training the LoRA adapters for the characters.
 <img width="991" height="247" alt="image" src="https://github.com/user-attachments/assets/721f34e5-b401-475a-8583-889f6a5b29c1" />
 
+Update 05/28 - The training dataset is only 31K samples and is sparse to learn the dataset on a 774M parameter model. Hence im moving to pretrained Mistral-7B model where i will do fine tuning of the weights on this corpus so that the model which already understands language is fine tuned to match the fantasy domain.
+
 
