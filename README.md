@@ -49,3 +49,13 @@ Update 05/26 - The file is working but I am getting some I/O error which says di
 Update 05/26 - My issued quota of disk space seems to be full. I have fixed the issue by requesting for a larger RAM allocation in quest and keep the trained model in RAM after training and use it directly instead of saving the best model and loading trained weights.
 
 Update 05/27 - The orchestrator/narrator hasn't been generating very good results in a narrator's point of view and I realised that the LIGHT dataset does not really have a lot of narrator prose in it. So I have expanded the dataset to include https://huggingface.co/datasets/euclaise/writingprompts which is a Reddit scraped dataset which gives the exact prose style narration for the agent for scene setting. I am now training the model on this dataset as well.
+
+Update 05/27 - The model gpt2-large is bering trained (774M parameters). Project Gutenberg has also been initialized with 6 stories to get the fantasy prose style. The 6 stories are : 
+GUTENBERG_BOOKS = [
+    (62,   "A Princess of Mars — Burroughs"),
+    (170,  "The Wood Beyond the World — Morris"),
+    (1251, "Le Morte d'Arthur — Malory"),
+    (5670, "The Story of the Glittering Plain — Morris"),
+    (9782, "Champions of the Round Table — Pyle"),
+    (20776,"Beowulf — Anonymous"),
+]
