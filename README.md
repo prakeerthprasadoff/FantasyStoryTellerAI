@@ -51,7 +51,9 @@ Update 05/26 - My issued quota of disk space seems to be full. I have fixed the 
 Update 05/27 - The orchestrator/narrator hasn't been generating very good results in a narrator's point of view and I realised that the LIGHT dataset does not really have a lot of narrator prose in it. So I have expanded the dataset to include https://huggingface.co/datasets/euclaise/writingprompts which is a Reddit scraped dataset which gives the exact prose style narration for the agent for scene setting. I am now training the model on this dataset as well.
 
 Update 05/27 - The model gpt2-large is bering trained (774M parameters). Project Gutenberg has also been initialized with 6 stories to get the fantasy prose style. The 6 stories are : 
-GUTENBERG_BOOKS = [
+
+    GUTENBERG_BOOKS = [
+ 
     (62,   "A Princess of Mars — Burroughs"),
     
     (170,  "The Wood Beyond the World — Morris"),
@@ -63,5 +65,8 @@ GUTENBERG_BOOKS = [
     (9782, "Champions of the Round Table — Pyle"),
     
     (20776,"Beowulf — Anonymous"),
-    
-]
+
+    ]
+
+
+
