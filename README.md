@@ -68,5 +68,7 @@ Update 05/27 - The model gpt2-large is bering trained (774M parameters). Project
 
     ]
 
+UPdate 05/28 - I have completed training the model overnight. Now training the LoRA adapters for the characters.
+<img width="991" height="247" alt="image" src="https://github.com/user-attachments/assets/721f34e5-b401-475a-8583-889f6a5b29c1" />
 
 
