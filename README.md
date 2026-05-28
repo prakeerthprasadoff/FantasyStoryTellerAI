@@ -73,4 +73,9 @@ UPdate 05/28 - I have completed training the model overnight. Now training the L
 
 Update 05/28 - The training dataset is only 31K samples and is sparse to learn the dataset on a 774M parameter model. Hence im moving to pretrained Mistral-7B model where i will do fine tuning of the weights on this corpus so that the model which already understands language is fine tuned to match the fantasy domain.
 
+The model itself is not able to understand language from such a sparse dataset, let alone get navigated into the fantasy domain and with the lora adapters, the existing characters from CharacterLLM are bleeding into the context which will also be fixed in v2.
+
+<img width="977" height="320" alt="image" src="https://github.com/user-attachments/assets/50b66213-e0ef-4c87-ac2f-7e39b04bf967" />
+
+
 
