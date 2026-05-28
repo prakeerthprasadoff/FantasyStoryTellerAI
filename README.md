@@ -77,5 +77,8 @@ The model itself is not able to understand language from such a sparse dataset, 
 
 <img width="977" height="320" alt="image" src="https://github.com/user-attachments/assets/50b66213-e0ef-4c87-ac2f-7e39b04bf967" />
 
+Update 05/28 - I've completed training but I've faced a CUDA out of memory error. Debugging
+
+<img width="976" height="131" alt="image" src="https://github.com/user-attachments/assets/ff734acb-1226-4146-8add-af62e33c36a6" />
 
 
