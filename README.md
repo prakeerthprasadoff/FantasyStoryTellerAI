@@ -53,9 +53,15 @@ Update 05/27 - The orchestrator/narrator hasn't been generating very good result
 Update 05/27 - The model gpt2-large is bering trained (774M parameters). Project Gutenberg has also been initialized with 6 stories to get the fantasy prose style. The 6 stories are : 
 GUTENBERG_BOOKS = [
     (62,   "A Princess of Mars — Burroughs"),
+    
     (170,  "The Wood Beyond the World — Morris"),
+    
     (1251, "Le Morte d'Arthur — Malory"),
+    
     (5670, "The Story of the Glittering Plain — Morris"),
+    
     (9782, "Champions of the Round Table — Pyle"),
+    
     (20776,"Beowulf — Anonymous"),
+    
 ]
