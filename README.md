@@ -82,3 +82,7 @@ Update 05/28 - I've completed training but I've faced a CUDA out of memory error
 <img width="976" height="131" alt="image" src="https://github.com/user-attachments/assets/ff734acb-1226-4146-8add-af62e33c36a6" />
 
 
+Update 05/31 - I have trained the mistral model and run a test scenario. The output is good but  i am going to try to make it better.
+
+<img width="989" height="796" alt="image" src="https://github.com/user-attachments/assets/74d3ce75-1d60-4e82-a697-8c090e5605b7" />
+
