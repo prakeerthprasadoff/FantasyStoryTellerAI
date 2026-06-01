@@ -86,3 +86,6 @@ Update 05/31 - I have trained the mistral model and run a test scenario. The out
 
 <img width="989" height="796" alt="image" src="https://github.com/user-attachments/assets/74d3ce75-1d60-4e82-a697-8c090e5605b7" />
 
+Update 05/31 - I updated to clean the responses from the Reddit to remove the misc tokens and now the output looks better.
+
+<img width="979" height="757" alt="image" src="https://github.com/user-attachments/assets/3937377f-e552-4836-a906-fb3648d1c244" />
