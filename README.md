@@ -94,3 +94,7 @@ Update 06/01 - I changed some hyper parameters like temperature from 0.85 to 0.7
 
 <img width="997" height="487" alt="image" src="https://github.com/user-attachments/assets/a960be08-e20f-4c5e-a090-3a8440e03c21" />
 
+Update 06/02 - I am now trying to make model outputs better and also starting to build a UI for the app. As of right now, the demo sits in a hardcoded cell in the end of the jupyter notebook
+
+<img width="999" height="349" alt="image" src="https://github.com/user-attachments/assets/989af9c4-cafa-4a8c-9233-fad699a90a47" />
+
