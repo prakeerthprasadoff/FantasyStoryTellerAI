@@ -105,3 +105,6 @@ Update 06/02 - I have added a total of 13 character now.
 Update 06/02 - After adding the characters, there seems to be an error, need to debug.
 
 <img width="998" height="581" alt="image" src="https://github.com/user-attachments/assets/bc60a6c4-06ab-499b-ba30-0edeef125f9c" />
+
+Update 06/07 - Created a UI for the app 
+
