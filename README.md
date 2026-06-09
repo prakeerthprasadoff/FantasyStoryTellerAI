@@ -108,3 +108,6 @@ Update 06/02 - After adding the characters, there seems to be an error, need to 
 
 Update 06/07 - Created a UI for the app 
 
+Update 06/08 - Polished the UI and deployed on gradio
+
+<img width="1728" height="981" alt="image" src="https://github.com/user-attachments/assets/46d9726e-35e3-4ca4-8ba9-dd51689bbaba" />
